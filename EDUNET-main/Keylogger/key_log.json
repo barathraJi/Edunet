@@ -1,0 +1,62 @@
+[
+    {
+        "Pressed": "Key.print_screen"
+    },
+    {
+        "Released": "Key.print_screen"
+    },
+    {
+        "Pressed": "Key.print_screen"
+    },
+    {
+        "Released": "Key.print_screen"
+    },
+    {
+        "Pressed": "Key.print_screen"
+    },
+    {
+        "Released": "Key.print_screen"
+    },
+    {
+        "Pressed": "w"
+    },
+    {
+        "Released": "'w'"
+    },
+    {
+        "Pressed": "h"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Pressed": "a"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "f"
+    },
+    {
+        "Released": "'f'"
+    },
+    {
+        "Pressed": "i"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Pressed": "l"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Released": "'e'"
+    }
+]
